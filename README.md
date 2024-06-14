@@ -1,7 +1,7 @@
-#### **실습 코드 리포트**
-### 실습 코드 리포트
-- LangChain 핵심 구성요소들에 대한 모듈 설명과 모듈에서 대표적으로 사용되는 함수를 실습할 수 있도록 했다.
-- 또한, 모듈 각각에 대해 먼저 실습하고, 핵심 모듈을 전부 사용하여 통합적으로 사용하여 챗봇과 대화할 수 있는 실습 코드를 작성하였다.
-- 마지막으로, 교육생이 목표 (1), (2)를 달성할 수 있도록 실습코드를 작성였다.
-    - 목표(1): ChatGPT 사용을 위한 OPEN AI key 생성 및 ChatGPT 답변에 대한 사용자선택변수를 조정하여 답변 차이를 비교할 수 있도록 하였다.
-    - 목표(2): LangChain 핵심 모듈을 전부 사용하도록 한다. 또한, 현업 수강생들이 본인 업무에 적용할 AI 방법론을 탐색하기 위해 최신 논문을 공부하는 상황을 가정하고, ChatGPT에게 질문할 수 있도록 하였다.
+### LangChain
+
+The module provides an explanation of the core components of LangChain and allows practicing the functions commonly used in these modules. Additionally, each module is practiced individually first, and then an integrated practice code is written to interact with a chatbot using all the core modules.
+
+Finally, the practice code is designed to help trainees achieve goals (1) and (2):
+Goal (1): Creating an OpenAI key for using ChatGPT and adjusting user-selectable variables for ChatGPT responses to compare differences in answers.
+Goal (2): Utilizing all core modules of LangChain. It also assumes a scenario where working students study the latest papers to explore AI methodologies applicable to their work and allows them to ask questions to ChatGPT.
