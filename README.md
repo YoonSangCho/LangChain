@@ -1,4 +1,4 @@
-#LLM, LangChain, ChatGPT
+#**LLM, LangChain, ChatGPT**
 
 The module provides an explanation of the core components of LangChain and allows practicing the functions commonly used in these modules. Additionally, each module is practiced individually first, and then an integrated practice code is written to interact with a chatbot using all the core modules.
 
